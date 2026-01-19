@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a passionate Cloud Computing and DevOps engineering student with a strong<br>interest in designing, deploying and managing scalable infrastructure. I have completed<br>the CCNA module linux module(l1,l2,l3,l4) and also know practial knowledge of infra services and am currently strengthening my skills in Linux, while also exploring<br>automation, containerization, and cloud technologies, I enjoy solving complex system.<br>challenges and aim to build reliable, efficient, and secure solutions through continuous<br>learning and hands-on practice.
+Linux-focused DevOps / System Administration practitioner with hands-on experience in deploying, configuring, and troubleshooting production-like environments.
+I work extensively with CentOS/Linux, web servers (Apache, Nginx), databases (MySQL, MongoDB), networking services (DHCP, static IP configuration), and security tools (OpenSSL, firewall, iptables).
+Comfortable with server setup, service hardening, log analysis, and fixing things when they break — not just when tutorials work. I use GitHub to document real setups, experiments, and failures, not copy-paste projects.
+Currently focused on strengthening DevOps fundamentals, automation, and infrastructure reliability.
 
 
 ## 🌐 Socials:
